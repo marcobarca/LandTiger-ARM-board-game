@@ -46,3 +46,7 @@ card from the initialization phase.
 
 ## LPC1768_HY-LandTiger Manual
 https://os.mbed.com/media/uploads/wim/landtiger_v2.0_-_manual__v1.1.pdf
+
+## Youtube 
+You can find a brief explanation about the most critical parts of the project on YouTube: 
+https://www.youtube.com/watch?v=2nCr6gZmRwQ
