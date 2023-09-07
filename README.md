@@ -38,5 +38,11 @@ when the game is won and the message "YOU WIN" is shown on the screen it will no
 so the only way to start a new game is via the Restart screen button or the physical Reset button, which restarts the 
 card from the initialization phase.
 
+## Finite State Machine
+![alt text](/finite_state_machine.png)
+
+## μVision screenshot
+![alt text](/screenshot.png)
+
 ## LPC1768_HY-LandTiger Manual
 https://os.mbed.com/media/uploads/wim/landtiger_v2.0_-_manual__v1.1.pdf
